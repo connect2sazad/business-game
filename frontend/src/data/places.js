@@ -90,6 +90,7 @@ const BluePlaces = [
         cost_hotel: 2000,
         bank_mortage: 750
     },
+    
 ]
 
 const GreenPlaces = [
@@ -106,6 +107,62 @@ const GreenPlaces = [
         cost_house: 5000,
         cost_hotel: 5000,
         bank_mortage: 3000
+    },
+    {
+        id: 12,
+        name: "Chandigarh",
+        color: Colors.green,
+        price: 2500,
+        rent: 200,
+        rent_1: 900,
+        rent_2: 1600,
+        rent_3: 2500,
+        rent_hotel: 3500,
+        cost_house: 3000,
+        cost_hotel: 3000,
+        bank_mortage: 1250
+    },
+    {
+        id: 13,
+        name: "Goa",
+        color: Colors.green,
+        price: 4000,
+        rent: 400,
+        rent_1: 1500,
+        rent_2: 3000,
+        rent_3: 4500,
+        rent_hotel: 5500,
+        cost_house: 4500,
+        cost_hotel: 4500,
+        bank_mortage: 2000
+    },
+    {
+        id: 14,
+        name: "Cochin",
+        color: Colors.green,
+        price: 3000,
+        rent: 300,
+        rent_1: 1200,
+        rent_2: 2000,
+        rent_3: 4250,
+        rent_hotel: 5500,
+        cost_house: 4000,
+        cost_hotel: 4000,
+        bank_mortage: 1500
+    },
+    {
+        id: 15,
+        name: "Mysore",
+        color: Colors.green,
+        price: 2500,
+        rent: 200,
+        rent_1: 1000,
+        rent_2: 2250,
+        rent_3: 3500,
+        rent_hotel: 3000,
+        cost_house: 3000,
+        cost_hotel: 3000,
+        bank_mortage: 1250
     }
 ]
 
