@@ -90,6 +90,65 @@ const BluePlaces = [
         cost_hotel: 2000,
         bank_mortage: 750
     },
+    {
+        id: 7,
+        name: "Jaipur",
+        color: Colors.blue,
+        price: 3000,
+        rent: 250,
+        rent_1: 1500,
+        rent_2: 2750,
+        rent_3: 4000,
+        rent_hotel: 5500,
+        cost_house: 4000,
+        cost_hotel: 4000,
+        bank_mortage: 1500
+    },
+    {
+        id: 8,
+        name: "Agra",
+        color: Colors.blue,
+        price: 2500,
+        rent: 200,
+        rent_1: 900,
+        rent_2: 1600,
+        rent_3: 2500,
+        rent_hotel: 3500,
+        cost_house: 3000,
+        cost_hotel: 3000,
+        bank_mortage: 1250
+    },
+    {
+        id: 9,
+        name: "Kanpur",
+        color: Colors.blue,
+        price: 4000,
+        rent: 400,
+        rent_1: 1500,
+        rent_2: 3000,
+        rent_3: 4500,
+        rent_hotel: 5500,
+        cost_house: 4500,
+        cost_hotel: 4500,
+        bank_mortage: 2000
+    },
+    {
+        id: 10,
+        name: "Patna",
+        color: Colors.blue,
+        price: 2000,
+        rent: 150,
+        rent_1: 800,
+        rent_2: 2000,
+        rent_3: 3000,
+        rent_hotel: 4500,
+        cost_house: 2500,
+        cost_hotel: 2500,
+        bank_mortage: 1000
+    },
+
+    
+
     
 ]
 
