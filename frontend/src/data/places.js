@@ -227,13 +227,86 @@ const GreenPlaces = [
 
 const YellowPlaces = [
     {
+        id: 16,
+        name: "Bengaluru",
+        color: Colors.yellow,
+        price: 4000,
+        rent: 400,
+        rent_1: 1500,
+        rent_2: 3000,
+        rent_3: 4500,
+        rent_hotel: 5500,
+        cost_house: 4500,
+        cost_hotel: 4500,
+        bank_mortage: 2000
 
-    }
+    },
+    {
+        id: 17,
+        name: "Shimla",
+        color: Colors.yellow,
+        price: 2200,
+        rent: 200,
+        rent_1: 1000,
+        rent_2: 2750,
+        rent_3: 4500,
+        rent_hotel: 6000,
+        cost_house: 3500,
+        cost_hotel: 3500,
+        bank_mortage: 1100
+
+    },
+     {
+        id: 18,
+        name: "Amritsar",
+        color: Colors.yellow,
+        price: 3300,
+        rent: 300,
+        rent_1: 1400,
+        rent_2: 2800,
+        rent_3: 4000,
+        rent_hotel: 5000,
+        cost_house: 4500,
+        cost_hotel: 4500,
+        bank_mortage: 1650
+
+    },
+    {
+        id: 19,
+        name: "Srinagar",
+        color: Colors.yellow,
+        price: 5000,
+        rent: 550,
+        rent_1: 3500,
+        rent_2: 5000,
+        rent_3: 7000,
+        rent_hotel: 8000,
+        cost_house: 6000,
+        cost_hotel: 6000,
+        bank_mortage: 2500
+
+    },
+    {
+        id: 20,
+        name: "Chennai",
+        color: Colors.yellow,
+        price: 7000,
+        rent: 900,
+        rent_1: 3500,
+        rent_2: 5000,
+        rent_3: 7500,
+        rent_hotel: 8500,
+        cost_house: 6500,
+        cost_hotel: 6500,
+        bank_mortage: 3500
+
+    },
+    
 ]
 
 const PinkPlaces = [
     {
-
+        
     }
 ]
 
