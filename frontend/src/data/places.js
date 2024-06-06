@@ -307,34 +307,26 @@ const YellowPlaces = [
 const PinkPlaces = [
     {
         id:21,
-        name:Water_Works,
+        name:"Water Works",
         price:3200,
         rent:500
-
-        
     },
     {
         id:22,
-        name:Railways,
+        name:"Railways",
         price:9500,
-        rent:1000
-
-        
+        rent:1000        
     },
     {
         id:23,
         name:Electric_Company,
         price:2500,
-        rent:500
-
-        
+        rent:500        
     },
     {
         id:24,
         name:Best,
         rent:600
-
-        
     },
     {
         id:25,
